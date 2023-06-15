@@ -57,6 +57,19 @@ const App = () => {
                   border: none;
                   font-size: 1.5vw;
                 }
+                h3{
+                  font-size: 1.2vw;
+                  font-weight:bold;
+                  padding: 10px 0px;
+                  border-bottom: 1px solid black;
+                }
+                h4{
+                  margin-top:10px;
+                  span{
+                    font-weight:normal;
+                    padding-left:5px;
+                  }
+                }
                 span {
                 }
                 ul {
@@ -138,14 +151,20 @@ const App = () => {
                 <div className="work_history_right_section">
                   <h2>Web Developer</h2>
                   <span>GCI NETWORK PVT LTD, Malad, Maharashtra</span>
+
+                  <h4>Project:<span>GCI Dashboard</span></h4>  
+                  <h3>Role & Responsibility</h3>
                   <ul>
                     <li>
                       Designed, implemented and monitored web pages and sites
                       for continuous improvement.
                     </li>
                     <li>
-                      Created site layout and user interface using HTML and CSS
+                      Created site layout and user interface using HTML,CSS and JavaScript
                       practices.
+                    </li>
+                    <li>
+                    Translate complex data into visually appealing and easily understandable charts.
                     </li>
                   </ul>
                 </div>
@@ -156,22 +175,114 @@ const App = () => {
                 <div className="work_history_right_section">
                   <h2>Senior UI Developer</h2>
                   <span>ORION INNOVATION, POWAI, Mumbai, Maharashtra</span>
+                  <h4>Project:<span>Thomas Net</span></h4> 
+                  <h4>Technology Stack:<span>HTML, CSS, JavaScript, BootStrap</span></h4>  
+                  <h3>Role & Responsibility</h3>
                   <ul>
-                    <li>Managed complete code performance.</li>
                     <li>
                       Coordinated for entire project related activities to be in
-                      tune with the core business objectives
+                      tune with the core business objectives.
                     </li>
                     <li>
-                      Analyzed the project requirement for further proceeding as
-                      well as delivered and implemented the project as per
-                      scheduled milestones.
-                    </li>
-                    <li>
-                      Developing React applications with Redux and other
-                      relevant technologies.
+                      Created site layout and user interface using HTML,CSS and JavaScript
+                      practices.
                     </li>
                   </ul>
+                  <h4>Project:<span>ORVA</span></h4>  
+                  <h4>Technology Stack:<span>HTML, CSS, ReactJs, RESTful APIs</span></h4>  
+                  <h3>Role & Responsibility</h3>
+                  <ul>
+                    <li>
+                      Translate complex data into visually appealing and easily understandable charts.
+                    </li>
+                    <li>General web development, including building landing pages, implmented a user multi step registration form.</li>
+                  </ul>
+
+                  <h4>Project:<span>DNDi</span></h4>  
+                  <h4>Technology Stack:<span>WordPress, Pods</span></h4>  
+                  <h3>Role & Responsibility</h3>
+                  <ul>
+                    <li>
+                    Contributed to the development and customization of WordPress websites using the Pods theme.  
+                    </li>
+                    <li>
+                    Implemented custom post types, taxonomies, and advanced custom fields to meet client requirements.
+                    </li>
+                    <li>
+                      Coordinated for entire project related activities to be in
+                      tune with the core business objectives.
+                    </li>
+                    <li>
+                    Collaborated with the design team to create visually appealing and user-friendly interfaces.
+                    </li>
+                    <li>Implmented a Database Migration tasks.</li>
+                  </ul>
+
+                  <h4>Project:<span>Pasternack </span></h4> 
+                  <h4>Technology Stack:<span>HTML, CSS, JavaScript</span></h4>  
+                  <h3>Role & Responsibility</h3>
+                  <ul>
+                    <li>
+                      Contributed to migration of static pages to Dynamic pages.   
+                    </li>
+
+                    <li>
+                    Provided training and guidance to junior developers on Migration Task and development.
+                    </li>
+                   
+                   <li>
+                   Collaborated with designers to ensure pixel-perfect implementation of designs.
+                   </li>
+                  </ul>
+
+                  <h4>Project:<span>YODA </span></h4> 
+                  <h4>Technology Stack:<span>HTML, CSS, ReactJs, RESTful APIs</span></h4>  
+                  <h3>Role & Responsibility</h3>
+                  <ul>
+                    <li>Worked with business team, maintained task report of employee base on daily basis</li>
+                    <li>
+                    Conducted code reviews and maintained high coding standards.
+                    </li>
+                   
+                   <li>
+                   Collaborated with designers to ensure pixel-perfect implementation of designs.
+                   </li>
+                  </ul>
+
+                  <h4>Project:<span>KPMG Clara</span></h4> 
+                  <h4>Technology Stack:<span>React.Js,Redux, RESTful APIs</span></h4>  
+                  <h3>Role & Responsibility</h3>
+                  <ul>
+                    <li>
+                    Developed and maintained responsive web applications using React.js and Redux.
+                    </li>
+
+                    <li>
+                      Implemented Redux for efficient state management, including actions, reducers, and selectors.
+                    </li>
+                    <li>
+                    Collaborated with the design team to create visually appealing user interfaces.
+                    </li>
+                  </ul>
+
+                  <h4>Project:<span>BDMP</span></h4>  
+                  <h4>Technology Stack:<span>React.Js,Redux, RESTful APIs</span></h4>  
+                  <h3>Role & Responsibility</h3>
+                  <ul>
+                    <li>
+                    Worked closely with product managers to understand business requirements.
+                    </li>
+
+                    <li>
+                    Integrated third-party libraries and APIs to enhance application functionality.
+                    </li>
+                    <li>
+                    Collaborated with the design team to create visually appealing user interfaces.
+                    </li>
+                    <li>
+                      Troubleshot and resolved complex issues related to React and Redux.</li>
+                  </ul>
+
                 </div>
               </div>
             </div>
