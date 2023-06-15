@@ -266,7 +266,7 @@ const App = () => {
                   </ul>
 
                   <h4>Project:<span>BDMP</span></h4>  
-                  <h4>Technology Stack:<span>React.Js,Redux, RESTful APIs</span></h4>  
+                  <h4>Technology Stack:<span>React.Js, RESTful APIs</span></h4>  
                   <h3>Role & Responsibility</h3>
                   <ul>
                     <li>
