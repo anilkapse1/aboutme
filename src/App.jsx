@@ -282,7 +282,7 @@ const App = () => {
                     <li>
                       Troubleshot and resolved complex issues related to React and Redux.</li>
                   </ul>
-                  <h4>Project:<span>REVIEW APP</span></h4>  
+                  <h4>Project:<span>REVIEW/ COMP APP - AUVENIR</span></h4>  
                   <h4>Technology Stack:<span>React.Js, RESTful APIs</span></h4>  
                   <h3>Role & Responsibility</h3>
                   <ul>
