@@ -282,6 +282,34 @@ const App = () => {
                     <li>
                       Troubleshot and resolved complex issues related to React and Redux.</li>
                   </ul>
+                  <h4>Project:<span>REVIEW APP</span></h4>  
+                  <h4>Technology Stack:<span>React.Js, RESTful APIs</span></h4>  
+                  <h3>Role & Responsibility</h3>
+                  <ul>
+                    <li>
+                    Collaborated with product managers to understand and implement business requirements.</li>
+
+                    <li>
+                    Integrated third-party libraries and APIs to enhance application functionality.
+                    </li>
+
+                    <li>
+                    Collaborated with the design team to create visually appealing user interfaces.
+                    </li>
+
+                    <li>
+                    Worked closely with the design team to develop visually appealing user interfaces.
+                    </li>
+
+                    <li>
+                    Identified, troubleshot, and resolved complex issues related to React and context.
+                    </li>
+
+                    <li>
+                    Assisted and mentored team members, providing guidance on best practices and troubleshooting technical challenges.
+                    </li>
+
+                  </ul>
 
                 </div>
               </div>
@@ -342,7 +370,7 @@ const App = () => {
           <div className="right_section">
                <div className="name_title">
                     <h1>Anil R Kapse</h1>
-                    <span>Senior UI Developer</span>
+                    <span>Senior Software Engineer</span>
                </div>     
                <div className="personal_info">
                     <h2>Personal Info</h2>
