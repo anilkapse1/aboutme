@@ -173,7 +173,7 @@ const App = () => {
                   <p>2017-05 - Current</p>
                 </div>
                 <div className="work_history_right_section">
-                  <h2>Senior UI Developer</h2>
+                  <h2>Senior Software Engineer</h2>
                   <span>ORION INNOVATION, POWAI, Mumbai, Maharashtra</span>
                   <h4>Project:<span>Thomas Net</span></h4> 
                   <h4>Technology Stack:<span>HTML, CSS, JavaScript, BootStrap</span></h4>  
